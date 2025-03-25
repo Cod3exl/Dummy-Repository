@@ -1,5 +1,5 @@
 # Dummy-Respository
-Creating a first repo for testing purposes
+Creating my first repo for testing purposes
 
 Author  - The owner of this repository, duh!
 
